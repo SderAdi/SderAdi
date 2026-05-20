@@ -4,7 +4,7 @@ BCA Student | Full Stack Developer (MERN)  <br>Learning DSA and building web dev
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadi_6551) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-aditya-sharma-b19a17377
+sder-adi
 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasharmasder@gmail.com) 
 
 # 💻 Tech Stack:
